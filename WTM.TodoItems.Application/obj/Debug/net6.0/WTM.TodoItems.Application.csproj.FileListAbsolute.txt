@@ -1,0 +1,15 @@
+C:\Users\C-NapaN\source\repos\WTM.TodoItems\WTM.TodoItems.Application\bin\Debug\net6.0\WTM.TodoItems.Application.deps.json
+C:\Users\C-NapaN\source\repos\WTM.TodoItems\WTM.TodoItems.Application\bin\Debug\net6.0\WTM.TodoItems.Application.dll
+C:\Users\C-NapaN\source\repos\WTM.TodoItems\WTM.TodoItems.Application\bin\Debug\net6.0\WTM.TodoItems.Application.pdb
+C:\Users\C-NapaN\source\repos\WTM.TodoItems\WTM.TodoItems.Application\bin\Debug\net6.0\WTM.TodoItems.Domain.dll
+C:\Users\C-NapaN\source\repos\WTM.TodoItems\WTM.TodoItems.Application\bin\Debug\net6.0\WTM.TodoItems.Domain.pdb
+C:\Users\C-NapaN\source\repos\WTM.TodoItems\WTM.TodoItems.Application\obj\Debug\net6.0\WTM.TodoItems.Application.csproj.AssemblyReference.cache
+C:\Users\C-NapaN\source\repos\WTM.TodoItems\WTM.TodoItems.Application\obj\Debug\net6.0\WTM.TodoItems.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\C-NapaN\source\repos\WTM.TodoItems\WTM.TodoItems.Application\obj\Debug\net6.0\WTM.TodoItems.Application.AssemblyInfoInputs.cache
+C:\Users\C-NapaN\source\repos\WTM.TodoItems\WTM.TodoItems.Application\obj\Debug\net6.0\WTM.TodoItems.Application.AssemblyInfo.cs
+C:\Users\C-NapaN\source\repos\WTM.TodoItems\WTM.TodoItems.Application\obj\Debug\net6.0\WTM.TodoItems.Application.csproj.CoreCompileInputs.cache
+C:\Users\C-NapaN\source\repos\WTM.TodoItems\WTM.TodoItems.Application\obj\Debug\net6.0\WTM.TodoItems.Application.csproj.CopyComplete
+C:\Users\C-NapaN\source\repos\WTM.TodoItems\WTM.TodoItems.Application\obj\Debug\net6.0\WTM.TodoItems.Application.dll
+C:\Users\C-NapaN\source\repos\WTM.TodoItems\WTM.TodoItems.Application\obj\Debug\net6.0\refint\WTM.TodoItems.Application.dll
+C:\Users\C-NapaN\source\repos\WTM.TodoItems\WTM.TodoItems.Application\obj\Debug\net6.0\WTM.TodoItems.Application.pdb
+C:\Users\C-NapaN\source\repos\WTM.TodoItems\WTM.TodoItems.Application\obj\Debug\net6.0\ref\WTM.TodoItems.Application.dll

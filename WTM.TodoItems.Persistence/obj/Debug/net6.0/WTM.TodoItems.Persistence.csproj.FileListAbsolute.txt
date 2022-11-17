@@ -1,0 +1,17 @@
+C:\Users\C-NapaN\source\repos\WTM.TodoItems\WTM.TodoItems.Persistence\bin\Debug\net6.0\WTM.TodoItems.Persistence.deps.json
+C:\Users\C-NapaN\source\repos\WTM.TodoItems\WTM.TodoItems.Persistence\bin\Debug\net6.0\WTM.TodoItems.Persistence.dll
+C:\Users\C-NapaN\source\repos\WTM.TodoItems\WTM.TodoItems.Persistence\bin\Debug\net6.0\WTM.TodoItems.Persistence.pdb
+C:\Users\C-NapaN\source\repos\WTM.TodoItems\WTM.TodoItems.Persistence\bin\Debug\net6.0\WTM.TodoItems.Application.dll
+C:\Users\C-NapaN\source\repos\WTM.TodoItems\WTM.TodoItems.Persistence\bin\Debug\net6.0\WTM.TodoItems.Domain.dll
+C:\Users\C-NapaN\source\repos\WTM.TodoItems\WTM.TodoItems.Persistence\bin\Debug\net6.0\WTM.TodoItems.Application.pdb
+C:\Users\C-NapaN\source\repos\WTM.TodoItems\WTM.TodoItems.Persistence\bin\Debug\net6.0\WTM.TodoItems.Domain.pdb
+C:\Users\C-NapaN\source\repos\WTM.TodoItems\WTM.TodoItems.Persistence\obj\Debug\net6.0\WTM.TodoItems.Persistence.csproj.AssemblyReference.cache
+C:\Users\C-NapaN\source\repos\WTM.TodoItems\WTM.TodoItems.Persistence\obj\Debug\net6.0\WTM.TodoItems.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\C-NapaN\source\repos\WTM.TodoItems\WTM.TodoItems.Persistence\obj\Debug\net6.0\WTM.TodoItems.Persistence.AssemblyInfoInputs.cache
+C:\Users\C-NapaN\source\repos\WTM.TodoItems\WTM.TodoItems.Persistence\obj\Debug\net6.0\WTM.TodoItems.Persistence.AssemblyInfo.cs
+C:\Users\C-NapaN\source\repos\WTM.TodoItems\WTM.TodoItems.Persistence\obj\Debug\net6.0\WTM.TodoItems.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\C-NapaN\source\repos\WTM.TodoItems\WTM.TodoItems.Persistence\obj\Debug\net6.0\WTM.TodoItems.Persistence.csproj.CopyComplete
+C:\Users\C-NapaN\source\repos\WTM.TodoItems\WTM.TodoItems.Persistence\obj\Debug\net6.0\WTM.TodoItems.Persistence.dll
+C:\Users\C-NapaN\source\repos\WTM.TodoItems\WTM.TodoItems.Persistence\obj\Debug\net6.0\refint\WTM.TodoItems.Persistence.dll
+C:\Users\C-NapaN\source\repos\WTM.TodoItems\WTM.TodoItems.Persistence\obj\Debug\net6.0\WTM.TodoItems.Persistence.pdb
+C:\Users\C-NapaN\source\repos\WTM.TodoItems\WTM.TodoItems.Persistence\obj\Debug\net6.0\ref\WTM.TodoItems.Persistence.dll
